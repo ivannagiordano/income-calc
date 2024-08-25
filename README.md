@@ -1,4 +1,5 @@
 # income-calc
+// Ivanna Giordano, COP2805, Advanced Java
 // this code helps you list the income that would be earned based on the sales amount 
 
 package COP2805;
